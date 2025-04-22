@@ -1,0 +1,7 @@
+streamlit run app.py
+
+DATASET_PATHS = [
+    './data/DarkPair/low',
+    './data/LOL_dataset/our485/low',
+    './data/LOL_dataset/eval15/low'
+]
